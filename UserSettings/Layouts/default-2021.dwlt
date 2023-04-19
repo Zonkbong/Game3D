@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 67
+  controlID: 22
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -68,8 +68,8 @@ MonoBehaviour:
     y: 0
     width: 364
     height: 770.8
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 98
+  controlID: 23
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 57
+  controlID: 64
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -317,22 +317,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/ARCADE - FREE Racing Car/Materials/Color Variations
+    - Assets
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/ARCADE - FREE Racing Car/Materials/Color Variations
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: D:\Kuliah\SEMESTER 6\Senin\Game\Mobil
+  m_LastProjectPath: D:\Kuliah\SEMESTER 6\Senin\Game\Game3D
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 34.200012}
-    m_SelectedIDs: ca5e0000
-    m_LastClickedID: 24266
-    m_ExpandedIDs: 00000000cc590000dc590000e2590000e4590000e6590000585c000000ca9a3b
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: cc590000
+    m_LastClickedID: 22988
+    m_ExpandedIDs: 00000000cc59000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -488,9 +488,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 2cf7ffff
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 6edfffff7ae1ffff96e1ffff9ae1ffffb0e1ffff94f2ffff18fbffff865e0000925e0000
+      m_ExpandedIDs: 18fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -774,7 +774,7 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: 484.07465, y: 1.061756, z: -2.9302373}
     speed: 2
-    m_Value: {x: 484.23285, y: 1.0731772, z: -3.098188}
+    m_Value: {x: 484.07465, y: 1.061756, z: -2.9302373}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -823,11 +823,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.30007857, y: 0.23981291, z: -0.078225635, w: 0.91997313}
     speed: 2
-    m_Value: {x: 0.30030784, y: 0.23704872, z: -0.077324, w: 0.920676}
+    m_Value: {x: -0.30007857, y: -0.23981291, z: 0.078225635, w: -0.91997313}
   m_Size:
     m_Target: 4.753335
     speed: 2
-    m_Value: 4.548646
+    m_Value: 4.753335
   m_Ortho:
     m_Target: 0
     speed: 2
